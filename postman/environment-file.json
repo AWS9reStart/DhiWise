@@ -1,5 +1,5 @@
 {
-  "id": "36e0b273-ca12-4423-8c83-edf29e663a5c",
+  "id": "bb13c94d-469f-41ad-ab94-04492fe3b730",
   "name": "dhiwise_application1_environment",
   "values": [
     {
@@ -14,6 +14,6 @@
     }
   ],
   "_postman_variable_scope": "environment",
-  "_postman_exported_at": "2022-12-05T11:38:15.330Z",
+  "_postman_exported_at": "2022-12-05T11:58:37.127Z",
   "_postman_exported_using": "Postman"
 }
